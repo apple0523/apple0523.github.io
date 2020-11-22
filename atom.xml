@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>私は天才です</title>
+  
+  <subtitle>静以修身 俭以养德</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://apple0523.github.io/"/>
+  <updated>2019-11-13T07:03:26.359Z</updated>
+  <id>https://apple0523.github.io/</id>
+  
+  <author>
+    <name>Lawrence Wang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>欢迎使用 Markdown在线编辑器 MdEditor</title>
+    <link href="https://apple0523.github.io/2019/11/13/huan-ying-shi-yong-markdown-zai-xian-bian-ji-qi-mdeditor/"/>
+    <id>https://apple0523.github.io/2019/11/13/huan-ying-shi-yong-markdown-zai-xian-bian-ji-qi-mdeditor/</id>
+    <published>2019-11-13T06:59:00.000Z</published>
+    <updated>2019-11-13T07:03:26.359Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;欢迎使用-Markdown在线编辑器-MdEditor&quot;&gt;&lt;a href=&quot;#欢迎使用-Markdown在线编辑器-MdEditor&quot; class=&quot;headerlink&quot; title=&quot;欢迎使用 Markdown在线编辑器 MdEditor&quot;&gt;&lt;/a&gt;欢迎使用
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Markdown" scheme="https://apple0523.github.io/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo安装报错一般是镜像源问题</title>
+    <link href="https://apple0523.github.io/2019/11/13/hexo-an-zhuang-bao-cuo-yi-ban-shi-jing-xiang-yuan-wen-ti/"/>
+    <id>https://apple0523.github.io/2019/11/13/hexo-an-zhuang-bao-cuo-yi-ban-shi-jing-xiang-yuan-wen-ti/</id>
+    <published>2019-11-13T02:11:00.000Z</published>
+    <updated>2019-11-13T07:10:29.685Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;执行下面代码就可以了&lt;/p&gt;
+&lt;p&gt;npm install -g cnpm –registry=&lt;a href=&quot;https://registry.npm.taobao.org&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Hexo" scheme="https://apple0523.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo 常用命令</title>
+    <link href="https://apple0523.github.io/2019/11/12/hexo-chang-yong-ming-ling/"/>
+    <id>https://apple0523.github.io/2019/11/12/hexo-chang-yong-ming-ling/</id>
+    <published>2019-11-12T02:29:00.000Z</published>
+    <updated>2019-11-13T05:35:14.289Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;前言:&lt;br&gt;​ 为了方便查阅,这里将常用指令汇总.&lt;/p&gt;
+&lt;p&gt;简写指令:&lt;/p&gt;
+&lt;p&gt;hexo n “我的第一篇文章” 等价于  hexo new “我的第一篇文章” 还等价于  hexo new post “我的第一篇文章” &lt;/p&gt;
+&lt;p&gt;hexo p 等价于
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Hexo" scheme="https://apple0523.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo发布文章</title>
+    <link href="https://apple0523.github.io/2018/12/18/hexo-fa-bu-wen-zhang/"/>
+    <id>https://apple0523.github.io/2018/12/18/hexo-fa-bu-wen-zhang/</id>
+    <published>2018-12-18T13:11:00.000Z</published>
+    <updated>2018-12-19T15:08:08.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;新建文章&lt;br&gt;以win10为例，其他操作系统相似，win+r快捷键，打开cmd命令行，进入文件所在的路径&lt;/p&gt;
+&lt;p&gt;$ hexo new title&lt;/p&gt;
+&lt;p&gt;title就是新建的文章的名字&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Hexo" scheme="https://apple0523.github.io/categories/Hexo/"/>
+    
+    
+      <category term="Hexo" scheme="https://apple0523.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>通过Hexo-admin进行全自动发布文章</title>
+    <link href="https://apple0523.github.io/2018/12/18/tong-guo-hexo-admin-jin-xing-quan-zi-dong-fa-bu-wen-zhang/"/>
+    <id>https://apple0523.github.io/2018/12/18/tong-guo-hexo-admin-jin-xing-quan-zi-dong-fa-bu-wen-zhang/</id>
+    <published>2018-12-18T12:58:00.000Z</published>
+    <updated>2019-11-13T07:10:43.790Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;hexo-admin官网&lt;br&gt;&lt;a href=&quot;https://jaredforsyth.com/hexo-admin/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://jaredforsyth.com/hexo-admin/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;npm install –save hexo-admin&lt;br&gt;hexo server -d&lt;br&gt;open &lt;a href=&quot;http://localhost:4000/admin/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://localhost:4000/admin/&lt;/a&gt;&lt;br&gt;hexo根目录配置文件&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Hexo" scheme="https://apple0523.github.io/categories/Hexo/"/>
+    
+    
+      <category term="Hexo" scheme="https://apple0523.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>my-first-blog</title>
+    <link href="https://apple0523.github.io/2018/08/07/my-first-blog/"/>
+    <id>https://apple0523.github.io/2018/08/07/my-first-blog/</id>
+    <published>2018-08-07T13:49:00.000Z</published>
+    <updated>2019-11-13T02:52:35.687Z</updated>
+    
+    <summary type="html">
+    
+      附加一段文章摘要，字数最好在140字以内，会出现在meta的description里面
+    
+    </summary>
+    
+    
+      <category term="Hexo" scheme="https://apple0523.github.io/tags/Hexo/"/>
+    
+      <category term="test" scheme="https://apple0523.github.io/tags/test/"/>
+    
+      <category term="github" scheme="https://apple0523.github.io/tags/github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Bash 新手指南</title>
+    <link href="https://apple0523.github.io/2018/08/07/bash/"/>
+    <id>https://apple0523.github.io/2018/08/07/bash/</id>
+    <published>2018-08-07T13:31:00.000Z</published>
+    <updated>2019-11-13T04:30:08.513Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;center&gt;**Bash 新手指南**&lt;/center&gt;
+
+
+&lt;br&gt;
+
+
+
+
+	&lt;div class=&quot;row&quot;&gt;
+    &lt;embed src=&quot;http://localhost:4000/pdf/files/Scrum敏捷项目管理.pdf&quot; width=&quot;100%&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://apple0523.github.io/2016/11/12/hello-world/"/>
+    <id>https://apple0523.github.io/2016/11/12/hello-world/</id>
+    <published>2016-11-12T13:02:00.000Z</published>
+    <updated>2019-11-13T05:37:12.459Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="Other" scheme="https://apple0523.github.io/categories/Other/"/>
+    
+    
+      <category term="Other" scheme="https://apple0523.github.io/tags/Other/"/>
+    
+  </entry>
+  
+</feed>
